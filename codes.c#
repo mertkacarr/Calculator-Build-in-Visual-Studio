@@ -10,7 +10,7 @@ namespace ConsoleApp2
 
 			double result;
 
-			string transaction;
+			string process;
 
 			Console.WriteLine("Please enter a number: ");
 			number1 = Convert.ToInt32(Console.ReadLine());
