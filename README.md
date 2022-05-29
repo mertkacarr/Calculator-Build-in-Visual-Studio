@@ -1,1 +1,1 @@
-# Calculator-Build-in-Visual-Studio
+The purpose of this application that I have made is to subject any number entered from the keyboard to operations such as addition, subtraction, multiplication and division, and to be written on the console screen.
